@@ -28,7 +28,7 @@ ask question and cloudflare ips: [https://t.me/edtunnel](https://t.me/edtunnel)
 
 1. See YouTube Video:
 
-   [https://www.youtube.com/watch?v=8I-yTNHB0aw](https://www.youtube.com/watch?v=8I-yTNHB0aw)
+   [(https://youtu.be/omgVSNcQdio)]([https://www.youtube.com/watch?v=8I-yTNHB0aw](https://youtu.be/omgVSNcQdio))
 
 2. Clone this repository deploy in cloudflare pages.
 
